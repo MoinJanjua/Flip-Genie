@@ -1,6 +1,6 @@
 # Flip Genie
 
-[![Flip Genie on the App Store](https://link-to-your-app-icon.com)](https://apps.apple.com/pk/app/flip-genie/id6590633569)
+[![Flip Genie on the App Store](https://github.com/MoinJanjua/Flip-Genie/blob/main/1.png)](https://apps.apple.com/pk/app/flip-genie/id6590633569)
 
 Welcome to **Flip Genie**! At Flip Genie, we believe in making decision-making fun and exciting. Our app brings the age-old tradition of coin tossing into the digital age with a touch of magic and personalization. Whether you're settling a bet, deciding who goes first, or just having fun, Flip Genie is here to add a bit of randomness and excitement to your life.
 
